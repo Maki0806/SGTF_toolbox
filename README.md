@@ -2,6 +2,8 @@
 
 **(c) Masaki Onuki, 2016**
 
+<img src="https://github.com/Maki0806/SGTF_toolbox/blob/main/Img/SGTF_ex.png" width=500>
+
 **Author:** Masaki Onuki (masaki.o@msp-lab.org)
 
 These MATLAB codes are the examples of spectral graph trilateral filter (SGTF). When you use this toolbox, please cite the paper below:
